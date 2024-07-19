@@ -119,8 +119,6 @@ async def not_joined(client: Client, message: Message):
         [
             InlineKeyboardButton(text="Join Channel", url=client.invitelink),
             InlineKeyboardButton(text="Join Channel", url=client.invitelink2),
-        ],
-        [
             InlineKeyboardButton(text="Join Channel", url="https://t.me/+HDN15aghxYw0YTM1"),
         ]
     ]
