@@ -119,7 +119,7 @@ async def not_joined(client: Client, message: Message):
         [
             InlineKeyboardButton(text="Join Channel", url=client.invitelink),
             InlineKeyboardButton(text="Join Channel", url=client.invitelink2),
-            InlineKeyboardButton(text="Join Channel", url="https://t.me/+liEGxhqJDbQyMzU9"),
+            InlineKeyboardButton(text="Join Channel", url="https://www.instagram.com/shanuanime?igsh=MWd3a2NrM3BqcDQxcw=="),
         ]
     ]
     try:
