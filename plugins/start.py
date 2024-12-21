@@ -119,7 +119,7 @@ async def not_joined(client: Client, message: Message):
         [
             InlineKeyboardButton(text="Join Channel", url=client.invitelink),
             InlineKeyboardButton(text="Join Channel", url=client.invitelink2),
-            InlineKeyboardButton(text="Join Channel", url="https://t.me/notpixel/app?startapp=f6295561053"),
+            InlineKeyboardButton(text="Join Channel", url="https://t.me/+wwjd14mliQszM2I1"),
         ]
     ]
     try:
